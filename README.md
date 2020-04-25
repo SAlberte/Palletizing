@@ -1,13 +1,13 @@
 ## Description
 
-Program allows moving blocks, rotating them and automaticcaly sort so that they take up less space.
+Program allows moving blocks, rotating them and automatically sort so that they take up less space.
 It also detects collision between them.
 
 ## Instruction
 
 In order to take control of a specific brick, click on it.
 Its color will then turn blue and you will be able to move and rotate it.
-Move blocks using the arrow keys, rotating using the 'a' and 'd' keys.
+Move blocks using the arrow keys, rotate using the 'a' and 'd' keys.
 To move another block, click on it.
 
 Automatic stacking starts when you press the space bar.
